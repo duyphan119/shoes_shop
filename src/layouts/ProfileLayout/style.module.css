@@ -1,0 +1,22 @@
+.list {
+  background-color: rgb(251, 251, 251);
+  height: 100%;
+}
+
+.sidebar-item-active,
+.sidebar-item-active svg {
+  color: #1976d2;
+}
+.sidebar-item-active li {
+  position: relative;
+  background-color: #fff;
+}
+.sidebar-item-active li::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: #1976d2;
+}

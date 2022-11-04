@@ -1,0 +1,8 @@
+.item-active,
+.item-active svg {
+	color: #fff;
+}
+.item-active {
+	display: block;
+	background-color: #1976d2;
+}

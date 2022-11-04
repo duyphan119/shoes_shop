@@ -1,0 +1,14 @@
+export { default as HomePage } from "./HomePage";
+export { default as SignInPage } from "./SignInPage";
+export { default as ProductPage } from "./ProductPage";
+export { default as ViewProductsPage } from "./ViewProductsPage";
+export { default as CartPage } from "./CartPage";
+export { default as DashboardPage } from "./DashboardPage";
+export { default as OrdersPage } from "./OrdersPage";
+export { default as AccountsPage } from "./AccountsPage";
+export { default as ProductsPage } from "./ProductsPage";
+export { default as ProfilePage } from "./ProfilePage";
+export { default as FavoritePage } from "./FavoritePage";
+export { default as ChangePasswordPage } from "./ChangePasswordPage";
+export { default as MyOrdersPage } from "./MyOrdersPage";
+export { default as RecentProductsPage } from "./RecentProductsPage";

@@ -1,0 +1,106 @@
+[
+	{
+		"id": 1,
+		"name": "Giày Boot Nam MWC - 8035 Giày Boot Nam Đế Cao Da",
+		"slug": "abc",
+		"thumbnail": "https://img.mwc.com.vn/giay-thoi-trang?&w=450&h=450&FileInput=//Upload/2022/10/z3785581015711-50f6cda737def6cd904a13517adf7c0e.jpg",
+		"color": "Đen",
+		"price": 270000,
+		"salePrice": 270000,
+		"size": "39",
+		"description": "Sản phẩm hoàn hảo từ thiết kế, kiểu dáng cho tới chất liệu,sử dụng chất da PU cao cấp thời trang chất da nguyên miếng nhập khẩu tạo nên vẻ bóng lì rất hút mắt cực kì sang trọng và sành điệu. Từng đường kim mũi chỉ trên thân giày đều đặn, chắc chắn, cho độ bền ở mức cao nhất.Thiết kế này rất 'dễ tính' khi phối đồ,bạn có thể mix giày cùng trang phục trẻ trung như sơ mi dáng ôm và quần chinos có độ dài trên mắt cá chân. Những bộ suit may đo lịch lãm cũng sẽ thêm phần hiện đại khi được phối cùng sản phẩm này.",
+		"images": [
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136412737_a9c419a38ff6b4ec9bd1eb5bc52013c9.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136405000_a397322d12cae381cb7ae36bd47ed780.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136408210_2ed3bce6f5b6330954184a2d6a5e81dd.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136415627_282dcc5f5bc5bedd8ecbe82958f90f27.jpg" }
+		],
+		"attributes": [
+			{ "attribute": "Chiều cao đế", "label": "4cm" },
+			{ "attribute": "Chất liệu da", "label": "PU cao cấp" },
+			{ "attribute": "Chất liệu đế", "label": "TPR êm mềm, độ đàn hồi tốt, chống trơn trượt" },
+			{ "attribute": "Kiểu dáng", "label": "giày Boot Cổ Cao" },
+			{ "attribute": "Màu sắc", "label": "Đen" },
+			{ "attribute": "Size", "label": "39-40-41-42-43" },
+			{ "attribute": "Xuất xứ", "label": "Việt Nam" }
+		]
+	},
+	{
+		"id": 2,
+		"name": "Giày Boot Nam MWC - 8035 Giày Boot Nam Đế Cao Da",
+		"slug": "abc",
+		"thumbnail": "https://m.media-amazon.com/images/M/MV5BMDI3ZDY4MDgtN2U2OS00Y2YzLWJmZmYtZWMzOTM3YWFjYmUyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+		"color": "Đen",
+		"price": 270000,
+		"salePrice": 270000,
+		"size": "40",
+		"description": "Sản phẩm hoàn hảo từ thiết kế, kiểu dáng cho tới chất liệu,sử dụng chất da PU cao cấp thời trang chất da nguyên miếng nhập khẩu tạo nên vẻ bóng lì rất hút mắt cực kì sang trọng và sành điệu. Từng đường kim mũi chỉ trên thân giày đều đặn, chắc chắn, cho độ bền ở mức cao nhất.Thiết kế này rất 'dễ tính' khi phối đồ,bạn có thể mix giày cùng trang phục trẻ trung như sơ mi dáng ôm và quần chinos có độ dài trên mắt cá chân. Những bộ suit may đo lịch lãm cũng sẽ thêm phần hiện đại khi được phối cùng sản phẩm này.",
+		"images": [
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136412737_a9c419a38ff6b4ec9bd1eb5bc52013c9.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136405000_a397322d12cae381cb7ae36bd47ed780.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136408210_2ed3bce6f5b6330954184a2d6a5e81dd.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136415627_282dcc5f5bc5bedd8ecbe82958f90f27.jpg" }
+		],
+		"attributes": [
+			{ "attribute": "Chiều cao đế", "label": "4cm" },
+			{ "attribute": "Chất liệu da", "label": "PU cao cấp" },
+			{ "attribute": "Chất liệu đế", "label": "TPR êm mềm, độ đàn hồi tốt, chống trơn trượt" },
+			{ "attribute": "Kiểu dáng", "label": "giày Boot Cổ Cao" },
+			{ "attribute": "Màu sắc", "label": "Đen" },
+			{ "attribute": "Size", "label": "39-40-41-42-43" },
+			{ "attribute": "Xuất xứ", "label": "Việt Nam" }
+		]
+	},
+	{
+		"id": 3,
+		"name": "Giày Boot Nam MWC - 8035 Giày Boot Nam Đế Cao Da",
+		"slug": "abc",
+		"thumbnail": "https://img.mwc.com.vn/giay-thoi-trang?&w=450&h=450&FileInput=//Upload/2022/10/z3785581015711-50f6cda737def6cd904a13517adf7c0e.jpg",
+		"color": "Đen",
+		"price": 270000,
+		"salePrice": 255000,
+		"size": "42",
+		"description": "Sản phẩm hoàn hảo từ thiết kế, kiểu dáng cho tới chất liệu,sử dụng chất da PU cao cấp thời trang chất da nguyên miếng nhập khẩu tạo nên vẻ bóng lì rất hút mắt cực kì sang trọng và sành điệu. Từng đường kim mũi chỉ trên thân giày đều đặn, chắc chắn, cho độ bền ở mức cao nhất.Thiết kế này rất 'dễ tính' khi phối đồ,bạn có thể mix giày cùng trang phục trẻ trung như sơ mi dáng ôm và quần chinos có độ dài trên mắt cá chân. Những bộ suit may đo lịch lãm cũng sẽ thêm phần hiện đại khi được phối cùng sản phẩm này.",
+		"images": [
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136412737_a9c419a38ff6b4ec9bd1eb5bc52013c9.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136405000_a397322d12cae381cb7ae36bd47ed780.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136408210_2ed3bce6f5b6330954184a2d6a5e81dd.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136415627_282dcc5f5bc5bedd8ecbe82958f90f27.jpg" }
+		],
+		"attributes": [
+			{ "attribute": "Chiều cao đế", "label": "4cm" },
+			{ "attribute": "Chất liệu da", "label": "PU cao cấp" },
+			{ "attribute": "Chất liệu đế", "label": "TPR êm mềm, độ đàn hồi tốt, chống trơn trượt" },
+			{ "attribute": "Kiểu dáng", "label": "giày Boot Cổ Cao" },
+			{ "attribute": "Màu sắc", "label": "Đen" },
+			{ "attribute": "Size", "label": "39-40-41-42-43" },
+			{ "attribute": "Xuất xứ", "label": "Việt Nam" }
+		]
+	},
+	{
+		"id": 4,
+		"name": "Giày Boot Nam MWC - 8035 Giày Boot Nam Đế Cao Da",
+		"slug": "abc",
+		"thumbnail": "https://img.mwc.com.vn/giay-thoi-trang?&w=450&h=450&FileInput=//Upload/2022/10/z3785581015711-50f6cda737def6cd904a13517adf7c0e.jpg",
+		"color": "Đen",
+		"price": 270000,
+		"salePrice": 270000,
+		"size": "41",
+		"description": "Sản phẩm hoàn hảo từ thiết kế, kiểu dáng cho tới chất liệu,sử dụng chất da PU cao cấp thời trang chất da nguyên miếng nhập khẩu tạo nên vẻ bóng lì rất hút mắt cực kì sang trọng và sành điệu. Từng đường kim mũi chỉ trên thân giày đều đặn, chắc chắn, cho độ bền ở mức cao nhất.Thiết kế này rất 'dễ tính' khi phối đồ,bạn có thể mix giày cùng trang phục trẻ trung như sơ mi dáng ôm và quần chinos có độ dài trên mắt cá chân. Những bộ suit may đo lịch lãm cũng sẽ thêm phần hiện đại khi được phối cùng sản phẩm này.",
+		"images": [
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136412737_a9c419a38ff6b4ec9bd1eb5bc52013c9.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136405000_a397322d12cae381cb7ae36bd47ed780.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136408210_2ed3bce6f5b6330954184a2d6a5e81dd.jpg" },
+			{ "path": "https://mwc.com.vn/FolderUpload/13.9.22/8229/dep_nam/8032/z3712136415627_282dcc5f5bc5bedd8ecbe82958f90f27.jpg" }
+		],
+		"attributes": [
+			{ "attribute": "Chiều cao đế", "label": "4cm" },
+			{ "attribute": "Chất liệu da", "label": "PU cao cấp" },
+			{ "attribute": "Chất liệu đế", "label": "TPR êm mềm, độ đàn hồi tốt, chống trơn trượt" },
+			{ "attribute": "Kiểu dáng", "label": "giày Boot Cổ Cao" },
+			{ "attribute": "Màu sắc", "label": "Đen" },
+			{ "attribute": "Size", "label": "39-40-41-42-43" },
+			{ "attribute": "Xuất xứ", "label": "Việt Nam" }
+		]
+	}
+]
